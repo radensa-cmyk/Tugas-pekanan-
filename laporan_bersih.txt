@@ -1,0 +1,11 @@
+LAPORAN TRANSAKSI BERSIh
+=========================
+
+ID: ID001 | Produk: Sepatu Lari | Jumlah: 2 | Total Harga: Rp 1500000.0
+ID: ID002 | Produk: Tas Sekolah | Jumlah: 1 | Total Harga: Rp 550000.0
+ID: ID003 | Produk: Baju Renang | Jumlah: 3 | Total Harga: Rp 450000.0
+ID: ID004 | Produk: Kacamata Hitam | Jumlah: 2 | Total Harga: Rp 500000.0
+ID: ID005 | Produk: Topi | Jumlah: 1 | Total Harga: Rp 125000.0
+
+--- ANALISIS SELESAI ---
+TOTAL KESELURUHAN: Rp 3125000.0
