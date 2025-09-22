@@ -1,0 +1,5 @@
+4,abumusa,
+202310020,abu musa alasyary,100;90
+202310010,Qonita,
+202310030,abdul aziz,80;90
+202310050,vernada,100
